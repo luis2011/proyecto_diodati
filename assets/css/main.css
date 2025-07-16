@@ -104,7 +104,7 @@ html, body {
     width: 100%;
 }
 .para_default p {
-    color: #999;
+    color: #fff;
     font-size: 15px;
     line-height: 29px;
 }
@@ -216,14 +216,14 @@ h6.mb-0 {
     transition: .5s;
 }
 .about_Single_item i {
-    color: #008cb5;
+    color: #fff;
     /*font-size: 40px;*/
     font-size: 48px;
 }
 .about_Single_item h3 {
     font-size: 25px;
     font-weight: 600;
-    color: #4d4d4d;
+    color: #fff;
 }
 .about_Single_item h3 a {
     color: #4d4d4d;
@@ -2353,7 +2353,7 @@ h6.mb-0 {
 ========================*/
 
 .widget_title {
-    color: #008cb5;
+    color: #fff;
     font-weight: 600;
     font-size: 24px;
     margin-bottom: 28px;
@@ -2364,7 +2364,7 @@ h6.mb-0 {
 .contact_info li {
     padding-left: 35px;
     position: relative;
-    color: #999;
+    color: #fff;
     margin-bottom: 13px;
     font-size: 14px;
 }
@@ -2374,13 +2374,13 @@ h6.mb-0 {
     top: 0px;
     line-height: 24px;
     font-size: 20px;
-    color: #999;
+    color: #fff;
 }
 .footer_widget_content ul li {
     margin-top: 4px;
 }
 .footer_widget_content ul li a {
-    color: #999;
+    color: #fff;
     font-size: 14px;
     font-weight: 400;
 }
@@ -2460,8 +2460,8 @@ h6.mb-0 {
 ========================*/
 
 #scrollUp {
-    background-color: #008cb5;
-    border: 1px solid #008cb5;
+    background-color: #000;
+    border: 1px solid #fff;
     bottom: 30px;
     color: #ffffff;
     font-size: 20px;
