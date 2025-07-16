@@ -1,0 +1,81 @@
+/* pagina _ nosotros */
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f4f7fa;
+      color: #333;
+    }
+
+    .card-container {
+      max-width: 500px;
+      margin: 50px auto;
+      background-color: #fff;
+      padding: 30px 40px;
+      border-radius: 15px;
+      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+      position: relative;
+
+    }
+
+    .avatar {
+      /* position: absolute; */
+      /* margin-left: 100px; */
+      width: 80px;
+      height: 80px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 3px solid #ddd;
+      margin-bottom: 10px;
+    }
+
+    .h2_plus {
+      margin-top: 0;
+      color: #2c3e50;
+      font-size: 25px;
+       
+    }
+
+    .h3_plus {
+      margin-bottom: 5px;
+      color: #34495e;
+       
+    }
+
+    .p__plus, .li_plus {
+      line-height: 1.6;
+      font-size: 15px;
+       
+    }
+
+    .ul__plus li {
+      margin-top: 0;
+      padding-left: 20px;
+       
+    }
+
+
+    .linkedin {
+      font-size: 14px;
+      color: #2980b9;
+      text-decoration: none;
+     
+      
+    }
+   
+
+    .h2_plus,.h3_plus,.ul__plus, .datos, .p__plus, .linkedin{
+        text-align:center;
+    }
+    @media (max-width: 480px) {
+        .socio{
+           font-size:20px;
+           text-align: center;
+           margin-bottom: -15px;
+        }
+        .avatar{
+            /* margin-left: 120px; */
+            width: 60px;
+            height: 60px;
+        }
+    }
