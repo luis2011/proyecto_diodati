@@ -2741,3 +2741,11 @@ span.counter_mas {
     font-weight: 700;
     font-family: 'Open Sans', sans-serif;
 }
+
+/* blanco -servicios*/
+    .blanco{
+      color: white !important;
+    }
+    .negro{
+      background-color: black !important;
+    }
