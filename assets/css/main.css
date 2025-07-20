@@ -2749,3 +2749,18 @@ span.counter_mas {
     .negro{
       background-color: black !important;
     }
+
+#botones
+.boton {
+  padding: 5px 10px;
+  background-color: black;
+  color: white;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+}
+
+/* .my-button:hover {
+  background-color: #fff;
+  color:#000
+} */
