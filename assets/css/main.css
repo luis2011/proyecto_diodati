@@ -917,7 +917,7 @@ h6.mb-0 {
     margin-bottom: 43px;
 }
 .tab_button_service li.active a {
-    border-bottom: 3px solid #008cb5;
+    border-bottom: 3px solid #fff;
     color: #4d4d4d;
     font-weight: 700;
     padding-bottom: 8px;
@@ -944,7 +944,7 @@ h6.mb-0 {
     margin-left: 30px;
 }
 .about_us_tab_area .tab_text_ser h3 {
-    color: #008cb5;
+    color: #fff;
     font-weight: 600;
     font-size: 30px;
     margin-bottom: 15px;
@@ -2638,6 +2638,7 @@ h6.mb-0 {
         bottom:130px;
        
 }
+
 }
 
 @media (min-width: 768px) {
